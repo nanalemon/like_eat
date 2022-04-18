@@ -14,7 +14,7 @@ body{
   font-weight: bold;
   font-size: 15px;
   cursor: pointer;
-  /* box-shadow: 0 10px 0 orange; */
+  text-transform: uppercase;
   user-select: none;
 }
 
@@ -23,7 +23,6 @@ body{
 }
 
 #btn:active{
-  /* box-shadow: 0 5px 0 orange; */
   margin-top: 55px;
 }
 
@@ -31,12 +30,6 @@ span{
   color: #ffeb3b;
   margin-left: 15rem;
 }
-
-/* #st{
-  margin-left: 30rem;
-  margin-top: 5rem;
-  display: block;
-} */
 
 #st2{
   margin-left: 35rem;
@@ -78,8 +71,6 @@ a{
   a{
     top: 1350px;
     right: 200px;
-    /* display: block; */
-    /* margin-bottom: 10px; */
   }
   #st1{
     position: absolute;
